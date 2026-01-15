@@ -1,0 +1,7 @@
+{
+  "name": "IndiaOCR Number Extractor",
+  "description": "Batch process images to extract and normalize Indian phone numbers using OCR with advanced image preprocessing and CSV export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
